@@ -1,0 +1,13 @@
+name: stats-env
+channels:
+  - conda-forge
+dependencies:
+ - python=3.10
+ - jupyterlab
+ - pandas
+ - numpy
+ - scipy
+ - statsmodels
+ - seaborn
+ - matplotlib
+  
